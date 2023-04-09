@@ -35,7 +35,7 @@ class _RegisrerPageState extends State<RegisrerPage> {
   Widget build(BuildContext context) {
     return Scaffold(
         appBar: AppBar(
-          title: const Text("Biliy"),
+          title: const Text("My App"),
         ),
         body: SingleChildScrollView(
           child: Center(
