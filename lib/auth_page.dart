@@ -1,6 +1,6 @@
-import 'package:billy_app/providers/token_provider.dart';
-import 'package:billy_app/screens/homePage/home_page.dart';
-import 'package:billy_app/screens/welcomePage/welcome_page.dart';
+import 'package:flutter_app/providers/token_provider.dart';
+import 'package:flutter_app/screens/homePage/home_page.dart';
+import 'package:flutter_app/screens/welcomePage/welcome_page.dart';
 import 'package:flutter/material.dart';
 
 class AuthPage extends StatelessWidget {

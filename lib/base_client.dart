@@ -1,5 +1,5 @@
 import 'dart:convert';
-import 'package:billy_app/providers/token_provider.dart';
+import 'package:flutter_app/providers/token_provider.dart';
 import 'package:flutter_dotenv/flutter_dotenv.dart';
 import 'package:http/http.dart' as http;
 import 'package:provider/provider.dart';

@@ -1,7 +1,7 @@
 import 'package:awesome_dialog/awesome_dialog.dart';
-// import 'package:billy_app/base_client.dart';
-import 'package:billy_app/providers/token_provider.dart';
-import 'package:billy_app/screens/LoginPage/login_page.dart';
+// import 'package:flutter_app/base_client.dart';
+import 'package:flutter_app/providers/token_provider.dart';
+import 'package:flutter_app/screens/LoginPage/login_page.dart';
 import 'package:flutter/material.dart';
 import 'package:jwt_decoder/jwt_decoder.dart';
 import 'package:provider/provider.dart';

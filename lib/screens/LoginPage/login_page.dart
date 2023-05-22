@@ -1,13 +1,13 @@
 import 'package:awesome_dialog/awesome_dialog.dart';
-import 'package:billy_app/base_client.dart';
-import 'package:billy_app/providers/token_provider.dart';
-import 'package:billy_app/screens/ForgotPassPage/forgot_pass_page.dart';
-import 'package:billy_app/screens/RegisterPage/register_page.dart';
-import 'package:billy_app/screens/homePage/home_page.dart';
-import 'package:billy_app/widgets/button_builder.dart';
-import 'package:billy_app/widgets/text_or_connect_with.dart';
+import 'package:flutter_app/base_client.dart';
+import 'package:flutter_app/providers/token_provider.dart';
+import 'package:flutter_app/screens/ForgotPassPage/forgot_pass_page.dart';
+import 'package:flutter_app/screens/RegisterPage/register_page.dart';
+import 'package:flutter_app/screens/homePage/home_page.dart';
+import 'package:flutter_app/widgets/button_builder.dart';
+import 'package:flutter_app/widgets/text_or_connect_with.dart';
 import 'package:flutter/material.dart';
-import 'package:billy_app/widgets/our_textfield.dart';
+import 'package:flutter_app/widgets/our_textfield.dart';
 import 'package:provider/provider.dart';
 
 class LoginPage extends StatefulWidget {

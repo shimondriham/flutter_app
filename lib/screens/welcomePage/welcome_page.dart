@@ -1,8 +1,8 @@
-import 'package:billy_app/base_client.dart';
-import 'package:billy_app/screens/AddInvoicePage/add_invoice_page.dart';
-import 'package:billy_app/screens/LoginPage/login_page.dart';
-import 'package:billy_app/screens/RegisterPage/register_page.dart';
-import 'package:billy_app/widgets/navigation_button.dart';
+import 'package:flutter_app/base_client.dart';
+import 'package:flutter_app/screens/AddInvoicePage/add_invoice_page.dart';
+import 'package:flutter_app/screens/LoginPage/login_page.dart';
+import 'package:flutter_app/screens/RegisterPage/register_page.dart';
+import 'package:flutter_app/widgets/navigation_button.dart';
 import 'package:flutter/material.dart';
 
 class WelcomePage extends StatelessWidget {

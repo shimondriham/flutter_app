@@ -1,6 +1,6 @@
 import 'dart:io';
-import 'package:billy_app/providers/invoice_providet.dart';
-import 'package:billy_app/widgets/add_invoice_button.dart';
+import 'package:flutter_app/providers/invoice_providet.dart';
+import 'package:flutter_app/widgets/add_invoice_button.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:image_picker/image_picker.dart';

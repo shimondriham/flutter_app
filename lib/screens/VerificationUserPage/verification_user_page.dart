@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:awesome_dialog/awesome_dialog.dart';
-import 'package:billy_app/base_client.dart';
-import 'package:billy_app/screens/LoginPage/login_page.dart';
-import 'package:billy_app/widgets/button_builder.dart';
-import 'package:billy_app/widgets/otp_box.dart';
+import 'package:flutter_app/base_client.dart';
+import 'package:flutter_app/screens/LoginPage/login_page.dart';
+import 'package:flutter_app/widgets/button_builder.dart';
+import 'package:flutter_app/widgets/otp_box.dart';
 
 class VerificationUserPage extends StatefulWidget {
   static const String id = 'verification_user_page';

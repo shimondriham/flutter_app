@@ -1,5 +1,5 @@
-import 'package:billy_app/screens/LoginPage/login_page.dart';
-import 'package:billy_app/widgets/navigation_button.dart';
+import 'package:flutter_app/screens/LoginPage/login_page.dart';
+import 'package:flutter_app/widgets/navigation_button.dart';
 import 'package:flutter/material.dart';
 
 class PassChangedPage extends StatefulWidget {

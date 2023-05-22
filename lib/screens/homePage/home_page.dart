@@ -1,12 +1,12 @@
 import 'package:awesome_dialog/awesome_dialog.dart';
-import 'package:billy_app/auth_user.dart';
-import 'package:billy_app/base_client.dart';
-import 'package:billy_app/providers/token_provider.dart';
-import 'package:billy_app/screens/AddBusinesPage/add_business_page.dart';
-import 'package:billy_app/screens/AddInvoicePage/add_invoice_page.dart';
-import 'package:billy_app/screens/LoginPage/login_page.dart';
-import 'package:billy_app/widgets/button_builder.dart';
-import 'package:billy_app/widgets/navigation_button.dart';
+import 'package:flutter_app/auth_user.dart';
+import 'package:flutter_app/base_client.dart';
+import 'package:flutter_app/providers/token_provider.dart';
+import 'package:flutter_app/screens/AddBusinesPage/add_business_page.dart';
+import 'package:flutter_app/screens/AddInvoicePage/add_invoice_page.dart';
+import 'package:flutter_app/screens/LoginPage/login_page.dart';
+import 'package:flutter_app/widgets/button_builder.dart';
+import 'package:flutter_app/widgets/navigation_button.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 

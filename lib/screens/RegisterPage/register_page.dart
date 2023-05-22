@@ -1,11 +1,11 @@
 import 'package:awesome_dialog/awesome_dialog.dart';
-import 'package:billy_app/base_client.dart';
-import 'package:billy_app/screens/LoginPage/login_page.dart';
-import 'package:billy_app/screens/VerificationUserPage/verification_user_page.dart';
-import 'package:billy_app/widgets/button_builder.dart';
-import 'package:billy_app/widgets/confirm_pass_textfield.dart';
-import 'package:billy_app/widgets/our_textfield.dart';
-import 'package:billy_app/widgets/text_or_connect_with.dart';
+import 'package:flutter_app/base_client.dart';
+import 'package:flutter_app/screens/LoginPage/login_page.dart';
+import 'package:flutter_app/screens/VerificationUserPage/verification_user_page.dart';
+import 'package:flutter_app/widgets/button_builder.dart';
+import 'package:flutter_app/widgets/confirm_pass_textfield.dart';
+import 'package:flutter_app/widgets/our_textfield.dart';
+import 'package:flutter_app/widgets/text_or_connect_with.dart';
 import 'package:flutter/material.dart';
 
 class RegisrerPage extends StatefulWidget {
