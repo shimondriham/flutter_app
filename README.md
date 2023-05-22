@@ -1,1 +1,3 @@
-Client-side : user login and registration application
+for dev: 
+
+copy .env.example file to .env file
